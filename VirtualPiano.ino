@@ -9,6 +9,8 @@
  * - Optionally a green led connected to pin 10 to indicate a tone being played
  * - Optionally a red led connected to pin 11 to indicate no tone being played
  *
+ * https://github.com/jurgensmit/VirtualPiano/
+ *
  */
 
 #include <NewPing.h>
