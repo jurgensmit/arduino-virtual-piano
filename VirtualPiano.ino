@@ -91,9 +91,6 @@ void playNote(unsigned int frequency, unsigned int duration) {
   noTone(BUZZER_PIN);
 }
 
-float previousTemperature = -1000;
-float previousAngle = -1000;
-
 void loop() {
   turnOffLeds();
   unsigned int distance = getDistance();
