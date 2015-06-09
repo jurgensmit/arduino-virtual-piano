@@ -5,11 +5,11 @@
  *
  * - An HC-SR04 ultrasonic sensor connected to pin 13 (trigger) and pin 12 (echo) to measure the distance
  * - A piezo buzzer connected to pin 8 to produce the sound
- * - A Grove 2x16 LCD display connected to I2C to show some information
+ * - Optionally a Grove 2x16 LCD display connected to I2C to show some information
  * - Optionally a green led connected to pin 10 to indicate a tone being played
  * - Optionally a red led connected to pin 11 to indicate no tone being played
  *
- * https://github.com/jurgensmit/VirtualPiano/
+ * https://github.com/jurgensmit/arduino-virtual-piano
  *
  */
 
