@@ -2,8 +2,9 @@
 
 An Arduino sketch to play piano without a keyboard. Plays notes relative to the distance measured by an ultrasonic sensor
 
-The application uses an ultrasonic distance sensor (HC-SR04) to measure the distance to your hands. This distance is
-then translated in to a note which is played through a piezo buzzer using the Arduino's tone function.
+The application uses an ultrasonic distance sensor (HC-SR04) to measure the distance to your hand (or any other object
+for that matter). This distance is then translated in to a note which is played through a piezo buzzer using the Arduino's 
+tone function.
 
 ## Do it yourself
 
