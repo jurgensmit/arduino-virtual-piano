@@ -8,8 +8,8 @@ tone function.
 
 ## Do it yourself
 
-1. Build the circuit according the Fritzing sketch. 
-2. Compile and upload the Arduino sketch. 
+1. Build the circuit according the Fritzing sketch
+2. Compile and upload the Arduino sketch
 3. Start jamming...
 
 ## What you need
